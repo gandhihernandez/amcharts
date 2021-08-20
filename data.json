@@ -33,4 +33,4 @@
  "latitude": 16.742435500000006, 
  "longitude":-93.1396595, 
  "color": colorSet.next() 
- }];
+ }]
