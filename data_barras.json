@@ -1,0 +1,50 @@
+[
+  {
+    "Estado": "Yucatan",
+    "Valor": 2025
+  },
+  {
+    "Estado": "Quintana Roo",
+    "Valor": 1882
+  },
+  {
+    "Estado": "Campeche",
+    "Valor": 1809
+  },
+  {
+    "Estado": "Tabasco",
+    "Valor": 1322
+  },
+  {
+    "Estado": "Chiapas",
+    "Valor": 1122
+  },
+  {
+    "Estado": "Oaxaca",
+    "Valor": 1114
+  },
+  {
+    "Estado": "Veracruz",
+    "Valor": 984
+  },
+  {
+    "Estado": "Puebla",
+    "Valor": 711
+  },
+  {
+    "Estado": "Tlaxcala",
+    "Valor": 665
+  },
+  {
+    "Estado": "Guerrero",
+    "Valor": 580
+  },
+  {
+    "Estado": "CDMX",
+    "Valor": 443
+  },
+  {
+    "Estado": "Queretaro",
+    "Valor": 441
+  }
+]
